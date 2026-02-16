@@ -2,9 +2,9 @@
 This is my final machine learning project for NYC Data Science Academy where I explore the business costs of machine learning algorithms for predicting healthcare provider fraud.
 
 ## Data Overview
-The data comes from Kaggle's [Healthcare Provider Fraud Detection Analysis](https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis) Train_ datasets and includes beneficary, provider, inpatient, and outpatient data. 
+The data comes from Kaggle's [Healthcare Provider Fraud Detection Analysis](https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis) Train_ datasets. I have included my [provider level data](provider_level_data.csv) that was used for my modeling. 
 
-Data dictionary (created by author): [Capstone_data_dictionary.pdf](Capstone_data_dictionary.pdf) 
+Data dictionary (created by author): [Capstone data_dictionary](Capstone_data_dictionary.pdf) 
 
 ## Project Highlights
 I explored the beneficiary and claims datasets using a series of warmup questions provided by NYC Data Science Academy with the ultimate goal of creating provider level data for fraud analysis. 
