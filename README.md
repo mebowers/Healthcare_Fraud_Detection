@@ -10,13 +10,13 @@ The data comes from Kaggle's [Healthcare Provider Fraud Detection Analysis](http
 ## Project Highlights
 I explored the beneficiary and claims datasets using a series of warmup questions provided by NYC Data Science Academy with the ultimate goal of creating provider level data for fraud analysis. 
 
-The warmup question notebooks are based on the [project proposal notebook](HealthCare Fraud Detection Project Proposal.ipynb) and contain the following work:
+The warmup question notebooks are based on the HealthCare Fraud Detection Project Proposal questions and contain the following work:
 
-- [Warmup_Q1](Warmup_Q1.ipynb): beneficiary and physician EDA
-- [Warmup_Q2](Warmup_Q2.ipynb): beneficiary EDA
-- [Warmup_Q3](Warmup_Q3.ipynb): time series analysis
-- [Warmup_Q4](Warmup_Q4.ipynb): claim-level EDA
-- [Warmup_Q5](Warmup_Q5.ipynb): duplicate claims, physician and patient ID reuse, geographic trends
+- [Warmup Q1](Warmup_Q1.ipynb): beneficiary and physician EDA
+- [Warmup Q2](Warmup_Q2.ipynb): beneficiary EDA
+- [Warmup Q3](Warmup_Q3.ipynb): time series analysis
+- [Warmup Q4](Warmup_Q4.ipynb): claim-level EDA
+- [Warmup Q5](Warmup_Q5.ipynb): duplicate claims, physician and patient ID reuse, geographic trends
 
 After creating provider level data, I evaluated logistic regression models and ensemble tree models focusing on the expense of false negatives and false positives in order to advise businesses on the cost efficiency of each algorithm.  
 
