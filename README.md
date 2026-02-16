@@ -4,8 +4,9 @@ This is my final machine learning project for NYC Data Science Academy where I e
 ## Data Overview
 The data comes from Kaggle's [Healthcare Provider Fraud Detection Analysis](https://www.kaggle.com/datasets/rohitrox/healthcare-provider-fraud-detection-analysis) Train_ datasets. 
 
-[Provider-level data](provider_level_data.csv), created for modeling 
-[Capstone data dictionary](Capstone_data_dictionary.pdf), created by author
+I have included the following files:
+- [Provider-level data](provider_level_data.csv), created for modeling 
+- [Capstone data dictionary](Capstone_data_dictionary.pdf), created by author
 
 ## Project Highlights
 I explored the beneficiary and claims datasets using a series of warmup questions provided by NYC Data Science Academy with the ultimate goal of creating provider level data for fraud analysis. 
